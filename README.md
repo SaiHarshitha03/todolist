@@ -28,7 +28,7 @@ Use the search box to find tasks.
 Toggle between Light and Dark mode using the ☀️/🌙 button.
 
 
-✨ Future Enhancements
+✨ Future Enhancements:
 Task prioritization (High/Medium/Low)
 Notifications or reminders
 Sync with cloud or authentication for multi-device access
